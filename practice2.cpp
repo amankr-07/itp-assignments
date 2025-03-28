@@ -15,7 +15,7 @@ int main(){
     cout << "Enter marks of subject 5 : ";
     cin >> e;
 
-    int total = a+b+c+d+e;
+    float total = a+b+c+d+e;
     float avg = total/5;
     float per = total/5;
 
